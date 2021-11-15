@@ -1,5 +1,5 @@
 [all]
-18.191.176.209
+18.191.176.209 ansible_ssh_private_key_file=
 
 [server]
-18.191.176.209
+18.191.176.209 ansible_ssh_private_key_file=
